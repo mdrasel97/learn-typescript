@@ -1,1 +1,0 @@
-const course = 'Next Level Web Development';
