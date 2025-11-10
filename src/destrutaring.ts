@@ -8,7 +8,7 @@ const user = {
         lastName: 'RASEL'
     },
     gender: 'male',
-    favoColor: 'white',
+    favoColor: 'white', 
 
 }
 
@@ -24,4 +24,7 @@ const friends = ['korim', 'Rahim', 'mahim']
 // const myBestF = friends[1]
 const [, myBestF] = friends
 console.log(myBestF)
+
+
+
 
